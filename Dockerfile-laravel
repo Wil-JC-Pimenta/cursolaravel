@@ -1,0 +1,7 @@
+cursolaravel/
+|-- app/
+|-- public/
+|-- ... (outros diretórios do Laravel)
+|-- docker-compose.yml
+|-- Dockerfile-laravel
+|-- outros_arquivos_do_projeto
